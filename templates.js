@@ -7,5 +7,9 @@ function countElements() {
 }
 
 function dos(){
+
+}
+
+function tres(){
   
 }
