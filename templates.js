@@ -11,5 +11,5 @@ function function1() {
 
     for (i = 0; i < lsItem.length; i++){
 		alert(lsItem[i].innerHTML);
-    };
+  };
 }
