@@ -13,3 +13,9 @@ function function1() {
 		alert(lsItem[i].innerHTML);
   };
 }
+
+function.addElemToBody(){
+  //P:Parrafo; LI:Lista
+  var node = document.createElement("P");
+  document.body.appendChild(node);
+}
